@@ -1,0 +1,13 @@
+{
+    "login":{
+        "SUC01":"suksess",
+        "MSSG":"Data tidak lengkap!",
+        "ERR01":"username/password tidak sama!"
+    },
+    "project":{
+        "getList":{
+            "SUC01":"suksess mendapatkan list project",
+            "ERR11":"failed"
+        }
+    }
+}

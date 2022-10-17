@@ -1,0 +1,13 @@
+{
+    "login":{
+        "SUC01":"success",
+        "MSSG":"Missing data",
+        "ERR01":"username/password did not match!"
+    },
+    "project":{
+        "getList":{
+            "SUC01":"success getting project list",
+            "ERR11":"failed"
+        }
+    }
+}
